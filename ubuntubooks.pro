@@ -30,4 +30,5 @@ OTHER_FILES += \
     qml/OAuthPlayground/*.desktop \
     qml/OAuthPlayground/ubuntubooks.desktop \
     qml/OAuthPlayground/*.qml \
-    qml/OAuthPlayground/Models/*.qml
+    qml/OAuthPlayground/Models/*.qml \
+    manifest.json

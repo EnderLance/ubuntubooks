@@ -1,0 +1,15 @@
+{
+    "description": "Google Books native app for Ubuntu Touch",
+    "framework": "ubuntu-sdk-13.10",
+    "architecture": "armhf",
+    "hooks": {
+        "ubuntubooks": {
+            "apparmor": "ubuntubooks.json",
+            "desktop": "ubuntubooks.desktop"
+        }
+    },
+    "maintainer": "Brendan Wilson <belancew@gmail.com>",
+    "name": "ubuntubooks",
+    "title": "ubuntubooks",
+    "version": "0.1"
+}
