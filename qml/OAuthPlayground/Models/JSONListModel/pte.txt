@@ -1,0 +1,57 @@
+{ 
+  "table": {
+      "Hydrogen": [
+        { "symbol": "H", 
+          "name": "Hydrogen", 
+          "protons": 1, 
+          "neutrons": 0, 
+          "link": "http://en.m.wikipedia.org/wiki/Hydrogen" 
+        }
+      ],
+
+      "Helium": [
+         { "symbol": "He", "name": "Helium", "protons": 2, "neutrons": 1, "link": "http://en.m.wikipedia.org/wiki/Helium" }
+      ],
+
+      "Lithium": [
+	{ "symbol": "Li", 
+          "name": "Lithium", 
+          "protons": 3, 
+          "neutrons": 4, 
+          "link": "http://en.m.wikipedia.org/wiki/Lithium" 
+        }
+      ],
+
+      "Beryllium": [
+	{ "symbol": "Be", "name": "Beryllium", "protons": 4, "neutrons": 5, "link": "http://en.m.wikipedia.org/wiki/Beryllium" }
+      ],
+
+      "Boron": [
+	{ "symbol": "B", "name": "Boron", "protons": 5, "neutrons": 5, "link": "http://en.m.wikipedia.org/wiki/Boron" }
+      ],
+
+      "Carbon": [
+	{ "symbol": "C", "name": "Carbon", "protons": 6, "neutrons": 6, "link": "http://en.m.wikipedia.org/wiki/Carbon" }
+      ],
+
+      "Nitrogen": [
+	{ "symbol": "N", "name": "Nitrogen", "protons": 7, "neutrons": 7, "link": "http://en.m.wikipedia.org/wiki/Nitrogen" }
+      ],
+
+      "Oxygen": [
+	{ "symbol": "Be", "name": "Oxygen", "protons": 8, "neutrons": 8, "link": "http://en.m.wikipedia.org/wiki/Oxygen" }
+      ],
+
+      "Fluorine": [
+	{ "symbol": "F", "name": "Fluorine", "protons": 9, "neutrons": 10, "link": "http://en.m.wikipedia.org/wiki/Fluorine" }
+      ],
+
+      "Neon": [
+	{ "symbol": "Ne", "name": "Neon", "protons": 10, "neutrons": 10, "link": "http://en.m.wikipedia.org/wiki/Neon" }
+      ],
+
+      "Sodium": [
+	{ "symbol": "Na", "name": "Sodium", "protons": 11, "neutrons": 12, "link": "http://en.m.wikipedia.org/wiki/Sodium" }
+      ]
+  }
+}

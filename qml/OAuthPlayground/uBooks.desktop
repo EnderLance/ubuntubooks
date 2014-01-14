@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=uBooks
+Comment=My project description
+Exec=/usr/bin/qmlscene $@ /usr/share/uBooks/main.qml
+Icon=ubuntubooksIcon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-StageHint=SideStage
