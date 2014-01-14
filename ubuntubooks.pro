@@ -27,4 +27,5 @@ HEADERS += \
 
 
 OTHER_FILES += \
-    qml/OAuthPlayground/*.desktop
+    qml/OAuthPlayground/*.desktop \
+    qml/OAuthPlayground/ubuntubooks.desktop
